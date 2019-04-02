@@ -1,0 +1,30 @@
+{
+  "name": "har-reader",
+  "version": "1.0.0",
+  "description": "A quick & easy HAR Reader with Node JS.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenscience/har-reader.git"
+  },
+  "keywords": [
+    "HAR Reader",
+    "HAR",
+    "HTTP Archive",
+    "Node JS",
+    "JSON"
+  ],
+  "author": "Praveen Kumar Purushothaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenscience/har-reader/issues"
+  },
+  "homepage": "https://github.com/praveenscience/har-reader#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
